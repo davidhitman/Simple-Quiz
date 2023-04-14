@@ -1,0 +1,136 @@
+/* style for the common1.php to be implemented on other pages*/
+body{
+	margin:0px;
+	padding:0px;
+	height: 100px;
+}
+.logo{
+	width:100%;
+	height: 60px;
+}
+i{
+	left:30px;
+	top:5px;
+	position: relative;
+}
+.h{
+	font-size: 50px;
+}
+.d{
+	left:-28px;
+	position: relative;
+	font-size: 50px;
+}
+.logoText{
+	font-size: 35px;
+	font-weight: bold;
+	top:-85px;
+	left:100px;
+	position: relative;
+}
+.navigation{
+	width:100%;
+	height: 70px;
+	background-color: rgba(245,148,39,0.8);
+}
+.selected{
+	color: yellow;
+}
+a{
+	text-decoration: none;
+	margin: 20px;
+	font-size: 25px;
+	top:40px;
+	left: 700px;
+	position: relative;
+	color: black;
+}
+a:hover{
+	color: yellow;
+}
+.bodyImg{
+	width: 100%;
+	height: 700px;
+}
+.bodyDiv{
+	width: 100%;
+	height: 700px;
+	z-index: -1;
+}
+.whiteDiv{
+	background-color: white;
+	height: 400px;
+	width: 600px;
+	top:-550px;
+	left:300px;
+	position: relative;
+	z-index: 1;
+}
+.footer{
+	background-color: black;
+	width: 100%;
+	height: 200px;
+	top:-420px;
+	position: relative;
+}
+.footer1{
+	color:white;
+	font-size: 25px;
+	top: 10px;
+	position: absolute;
+	left: 250px;
+}
+.insta{
+	height: 40px;
+	width:40px;
+	top:80px;
+	left:60px;
+	position: relative;
+}
+.footer2{
+	color:white;
+	left:40px;
+	top:65px;
+	position: relative;
+}
+.twitter{
+	height: 30px;
+	width:30px;
+	top:130px;
+	left:-180px;
+	position: relative;
+}
+.footer3{
+	color:white;
+	left:-190px;
+	top:120px;
+	position: relative;
+}
+.email{
+	height: 30px;
+	width:30px;
+	top:80px;
+	left:100px;
+	position: relative;
+}
+.myEmail{
+	color: white;
+	left: 630px;
+	top:15px;
+	position: relative;
+	font-size: 25px;
+}
+.phone{
+	height: 30px;
+	width:30px;
+	top:20px;
+	left:590px;
+	position: relative;
+}
+.myPhone{
+	color: white;
+	top:-40px;
+	left:630px;
+	position: relative;
+	font-size: 25px;
+}

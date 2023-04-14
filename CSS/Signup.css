@@ -1,0 +1,86 @@
+/* style for the labels, input-textflied, button and the message paragraph for the Sign up page */
+.label{
+	font-size: 30px;
+	top:10px;
+	left: 50px;
+	position: absolute;
+}
+.input{
+	top:15px;
+	margin-left: 270px;
+	width: 220px;
+	height: 30px;
+	position: absolute;
+}
+.label1{
+	font-size: 30px;
+	top:70px;
+	left: 50px;
+	position: absolute;
+}
+.input1{
+	top:70px;
+	margin-left: 270px;
+	width: 220px;
+	height: 30px;
+	position: absolute;
+}
+.label2{
+	font-size: 30px;
+	top:130px;
+	left: 50px;
+	position: absolute;
+}
+.input2{
+	top:130px;
+	margin-left: 270px;
+	width: 220px;
+	height: 30px;
+	position: absolute;
+}
+.label3{
+	font-size: 30px;
+	top:200px;
+	left: 50px;
+	position: absolute;
+}
+.input3{
+	top:200px;
+	margin-left: 270px;
+	width: 220px;
+	height: 30px;
+	position: absolute;
+}
+.label4{
+	font-size: 30px;
+	top:260px;
+	left: 50px;
+	position: absolute;
+}
+.input4{
+	top:260px;
+	margin-left: 270px;
+	width: 220px;
+	height: 30px;
+	position: absolute;
+}
+.button{
+	width: 130px;
+	height: 40px;
+	top:330px;
+	left:450px;
+	background-color:rgba(245,148,39,0.8);
+	position: absolute;
+	border: none;
+	border-radius: 20px;
+}
+.button:hover{
+	background-color: rgb(171, 212, 255);
+}
+.result{
+	font-size:20px;
+	color: red;
+	margin-left:40px; 
+	top:310px;
+	position: absolute;
+}

@@ -1,0 +1,7 @@
+/* style for the about paragraph */ 
+.about{
+	font-size: 20px;
+	left:40px;
+	top:30px;
+	position: absolute;
+}

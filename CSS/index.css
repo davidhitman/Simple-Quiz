@@ -1,0 +1,24 @@
+/*style for the three paragraphs in the home page*/
+.par1{
+	font-size: 50px;
+	left:180px;
+	top:30px;
+	position: absolute;
+}
+.par2{
+	font-size: 50px;
+	left:250px;
+	top: 110px;
+	position: absolute;
+}
+.par3{
+	font-size: 50px;
+	left:250px;
+	top: 200px;
+	position: absolute;
+}
+.d-letter{
+	left: -15px;
+	position: relative;
+}
+
